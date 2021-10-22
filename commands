@@ -6,3 +6,11 @@ npm install json-server
 
 //ngrok
 npm install ngrok
+
+//git
+git init
+git add .
+git commit -m "initializing repository"
+git branch -M main
+git remote add origin https://github.com/adolfredo-coneo/ngrok-json-server.git
+git push -u origin main
