@@ -1,0 +1,8 @@
+//init project
+npm init
+
+//json-server
+npm install json-server
+
+//ngrok
+npm install ngrok
